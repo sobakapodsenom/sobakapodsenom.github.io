@@ -1,0 +1,45 @@
+html {
+    font-size: 30px; /* px значит 'пиксели': базовый шрифт будет пикселей в высоту  */
+    font-family: "Calligraffitti", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color:#bd24c2;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center }
+  h2 {font-size: 60px;
+    text-align: center;
+    color: blueviolet;
+
+  }
+  
+  p {
+    font-size: 40px;
+    line-height: 3;
+    letter-spacing: 1px }
+  p1 {
+    font-size: 30px;
+    line-height: 3;
+    letter-spacing: 1px;
+    color: rgb(236, 15, 151);
+    border: red;
+  }
+  body {
+    width: 1920px;
+    margin: 0 auto;
+    background-color: #49858d;
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 40px 0;
+    color: #dd0df8;
+    text-shadow: 3px 3px 1px rgb(85, 11, 11);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
